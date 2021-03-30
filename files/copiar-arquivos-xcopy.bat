@@ -1,0 +1,11 @@
+set mydir=SCTASK2099257&xcopy /isvy C:\Projeto\PPD\DHLD0025\hot_folders\NOTAFISCAL\Original\20201118\SCTASK2099257\ C:\Users\Alexandre\development\earq\projetos\dhl\temp\%mydir%
+set mydir=SCTASK2106711&xcopy /isvy C:\Projeto\PPD\DHLD0025\hot_folders\NOTAFISCAL\Original\20201123\SCTASK2106711\ C:\Users\Alexandre\development\earq\projetos\dhl\temp\%mydir%
+set mydir=SCTASK2109391&xcopy /isvy C:\Projeto\PPD\DHLD0025\hot_folders\NOTAFISCAL\Original\20201123\SCTASK2109391\ C:\Users\Alexandre\development\earq\projetos\dhl\temp\%mydir%
+set mydir=SCTASK2109563&xcopy /isvy C:\Projeto\PPD\DHLD0025\hot_folders\NOTAFISCAL\Original\20201124\SCTASK2109563\ C:\Users\Alexandre\development\earq\projetos\dhl\temp\%mydir%
+set mydir=SCTASK2109799&xcopy /isvy C:\Projeto\PPD\DHLD0025\hot_folders\NOTAFISCAL\Original\20201124\SCTASK2109799\ C:\Users\Alexandre\development\earq\projetos\dhl\temp\%mydir%
+set mydir=SCTASK2109842&xcopy /isvy C:\Projeto\PPD\DHLD0025\hot_folders\NOTAFISCAL\Original\20201124\SCTASK2109842\ C:\Users\Alexandre\development\earq\projetos\dhl\temp\%mydir%
+set mydir=SCTASK2109849&xcopy /isvy C:\Projeto\PPD\DHLD0025\hot_folders\NOTAFISCAL\Original\20201124\SCTASK2109849\ C:\Users\Alexandre\development\earq\projetos\dhl\temp\%mydir%
+set mydir=SCTASK2123055&xcopy /isvy C:\Projeto\PPD\DHLD0025\hot_folders\NOTAFISCAL\Original\20201202\SCTASK2123055\ C:\Users\Alexandre\development\earq\projetos\dhl\temp\%mydir%
+set mydir=SCTASK2123056&xcopy /isvy C:\Projeto\PPD\DHLD0025\hot_folders\NOTAFISCAL\Original\20201202\SCTASK2123056\ C:\Users\Alexandre\development\earq\projetos\dhl\temp\%mydir%
+set mydir=SCTASK2135310&xcopy /isvy C:\Projeto\PPD\DHLD0025\hot_folders\NOTAFISCAL\Original\20201209\SCTASK2135310\ C:\Users\Alexandre\development\earq\projetos\dhl\temp\%mydir%
+set mydir=SCTASK2143243&xcopy /isvy C:\Projeto\PPD\DHLD0025\hot_folders\NOTAFISCAL\Original\20201214\SCTASK2143243\ C:\Users\Alexandre\development\earq\projetos\dhl\temp\%mydir%
