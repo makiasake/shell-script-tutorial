@@ -1,0 +1,2 @@
+https://www.shellscript.sh/philosophy.html 
+https://www.shellscript.sh/first.html
